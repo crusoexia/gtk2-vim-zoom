@@ -14,7 +14,7 @@ Add below code into your _~/.vimrc_
 
 ### Other methods
 
-If you don't use vundle, download the _vim-zoom.vim_ and use it in your preferred method, anyway,
+If you don't use vundle, download the _gtk2-zoom.vim_ and use it in your preferred method, anyway,
 it just works.
 
 Usage
