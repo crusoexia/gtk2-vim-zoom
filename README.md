@@ -1,6 +1,3 @@
-gtk2-vim-zoom
-==============
-
 This script is copied from [vim wiki](http://vim.wikia.com/wiki/Change_font_size_quickly) 
 in order to manage it with [Vundle](https://github.com/gmarik/vundle).
 
