@@ -24,7 +24,7 @@ ___:LargerFont___ - zoom in
 
 ___:SmallerFont___ - zoom out
 
-Map the commands with shotcuts to make it handy:
+Map the commands with shortcuts to make it handy:
 
     nnoremap <silent> <C-UP> :LargerFont<CR>
     nnoremap <silent> <C-DOWN> :SmallerFont<CR>
